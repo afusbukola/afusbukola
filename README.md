@@ -6,4 +6,4 @@ Create code that implement salary function by using employee name as input.
 Data processed using dictionary approach.
 N.B: Error handling code is included to manage potential issues.
 Python
-Requirement: python 4.4.1, R 3.1, CSV 
+Requirement: python 4.4.1, R 3.1, JupyterNotebook.
